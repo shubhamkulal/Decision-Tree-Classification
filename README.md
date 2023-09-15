@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to contact me:
 
 - Email: shubhamkulal53@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shubhamkulal/)
+- LinkedIn: [Click Here](https://www.linkedin.com/in/shubhamkulal/)
 
 ## Acknowledgments
 
