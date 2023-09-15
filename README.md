@@ -6,7 +6,6 @@
 
 This repository contains the code and documentation for my Decision Tree Classifier project, developed during my internship at The Sparks Foundation. In this project, I implemented a Decision Tree Classification model to solve a real-world problem.
 
-![Decision Tree](decision_tree.png)
 
 ## Key Features
 
